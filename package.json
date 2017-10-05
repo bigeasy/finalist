@@ -1,6 +1,6 @@
 {
     "name":                 "finalist",
-    "version":              "0.0.1",
+    "version":              "0.0.2",
     "description":
 
       "An error-first callback function that returns the first value returned from a number of error-first callback and ignores the rest.",
